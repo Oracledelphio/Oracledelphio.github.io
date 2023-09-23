@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>About on Welcome to My Page</title>
+    <link>https://Oracledelphio.github.io/categories/about/</link>
+    <description>Recent content in About on Welcome to My Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Sep 2023 21:44:17 +0530</lastBuildDate><atom:link href="https://Oracledelphio.github.io/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://Oracledelphio.github.io/posts/about/</link>
+      <pubDate>Wed, 13 Sep 2023 21:44:17 +0530</pubDate>
+      
+      <guid>https://Oracledelphio.github.io/posts/about/</guid>
+      <description>Getting To Know Me: Hello! I&amp;rsquo;m Kurt, a multifaceted individual with a passion for various interests. My primary hobbies include programming, where I love to dive into the world of code and create innovative solutions, as well as sketching and photography, where I explore my creative side through visual art. On top of that, I have a strong background in track and field, proudly boasting multiple medals that showcase my dedication to sports and discipline.</description>
+    </item>
+    
+  </channel>
+</rss>
